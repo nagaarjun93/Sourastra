@@ -1,0 +1,172 @@
+[
+  {
+    "id": "quiz_001",
+    "question": "What is the Sourashtra word for 'Mother' (அம்மா)?",
+    "questionTamil": "'அம்மா' என்பதற்கான சௌராஷ்ட்ர சொல் எது?",
+    "options": [
+      "Amma",
+      "Baapu",
+      "Bhaau",
+      "Baayi"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "According to page 43 of the PDF, 'Amma' means Mother (அம்மா).",
+    "category": "Family",
+    "source": "Learn-English-Through-Sourashtra.pdf",
+    "sourcePage": 43,
+    "verified": true
+  },
+  {
+    "id": "quiz_002",
+    "question": "What is the English meaning of the Sourashtra word 'Deko' (பார்)?",
+    "questionTamil": "'Deko' என்ற சௌராஷ்ட்ர சொல்லின் பொருள் என்ன?",
+    "options": [
+      "Come",
+      "See",
+      "Go",
+      "Eat"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "According to page 7 of the PDF, 'Deko' means 'See' / 'பார்'.",
+    "category": "Verbs",
+    "source": "Learn-English-Through-Sourashtra.pdf",
+    "sourcePage": 7,
+    "verified": true
+  },
+  {
+    "id": "quiz_003",
+    "question": "Which Sourashtra word means 'Water' (தண்ணீர்)?",
+    "questionTamil": "'தண்ணீர்' என்பதன் சௌராஷ்ட்ர சொல் எது?",
+    "options": [
+      "Dhudhu",
+      "Haal",
+      "Ropiyo",
+      "Gher"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "According to page 24 of the PDF, 'Haal' means 'Water' (தண்ணீர்).",
+    "category": "Food",
+    "source": "Learn-English-Through-Sourashtra.pdf",
+    "sourcePage": 24,
+    "verified": true
+  },
+  {
+    "id": "quiz_004",
+    "question": "What does 'Iu' mean in Sourashtra?",
+    "questionTamil": "சௌராஷ்ட்ர மொழியில் 'Iu' என்றால் என்ன எண்?",
+    "options": [
+      "One (ஒன்று)",
+      "Two (இரண்டு)",
+      "Five (ஐந்து)",
+      "Ten (பத்து)"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "According to page 13 of the PDF, 'Iu' means One (ஒன்று).",
+    "category": "Numbers",
+    "source": "Learn-English-Through-Sourashtra.pdf",
+    "sourcePage": 13,
+    "verified": true
+  },
+  {
+    "id": "quiz_005",
+    "question": "What is the Sourashtra word for 'Father' (அப்பா)?",
+    "questionTamil": "'அப்பா' என்பதற்கான சௌராஷ்ட்ர சொல் எது?",
+    "options": [
+      "Baapu",
+      "Dhaadha",
+      "Bhaau",
+      "Mithru"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "According to page 43 of the PDF, 'Baapu' means Father (அப்பா).",
+    "category": "Family",
+    "source": "Learn-English-Through-Sourashtra.pdf",
+    "sourcePage": 43,
+    "verified": true
+  },
+  {
+    "id": "quiz_006",
+    "question": "Which word represents 'Sun' (சூரியன்) in Sourashtra?",
+    "questionTamil": "சௌராஷ்ட்ர மொழியில் 'சூரியன்' என்பதன் சொல் எது?",
+    "options": [
+      "Chondro",
+      "Suriyo",
+      "Varo",
+      "Manshu"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "According to page 24 of the PDF, 'Suriyo' means Sun (சூரியன்).",
+    "category": "Nature",
+    "source": "Learn-English-Through-Sourashtra.pdf",
+    "sourcePage": 24,
+    "verified": true
+  },
+  {
+    "id": "quiz_007",
+    "question": "What is the Sourashtra term for 'House' (வீடு)?",
+    "questionTamil": "'வீடு' என்பதற்கான சௌராஷ்ட்ர சொல் எது?",
+    "options": [
+      "Gher",
+      "Haal",
+      "Thembo",
+      "Bhuvi"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "According to page 24 of the PDF, 'Gher' means House (வீடு).",
+    "category": "Nouns",
+    "source": "Learn-English-Through-Sourashtra.pdf",
+    "sourcePage": 24,
+    "verified": true
+  },
+  {
+    "id": "quiz_008",
+    "question": "What is the Sourashtra number for 'Ten' (பத்து)?",
+    "questionTamil": "'பத்து' (10) என்பதற்கான சௌராஷ்ட்ர சொல் எது?",
+    "options": [
+      "Paanch",
+      "Saat",
+      "Dhas",
+      "Veas"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "According to page 13 of the PDF, 'Dhas' means Ten (பத்து).",
+    "category": "Numbers",
+    "source": "Learn-English-Through-Sourashtra.pdf",
+    "sourcePage": 13,
+    "verified": true
+  },
+  {
+    "id": "quiz_009",
+    "question": "Which body part does 'Aakhi' represent?",
+    "questionTamil": "'Aakhi' என்பது எந்த உடல் உறுப்பைக் குறிக்கிறது?",
+    "options": [
+      "கண் (Eye)",
+      "கை (Hand)",
+      "கால் (Leg)",
+      "காது (Ear)"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "According to page 24 of the PDF, 'Aakhi' means Eye (கண்).",
+    "category": "Body",
+    "source": "Learn-English-Through-Sourashtra.pdf",
+    "sourcePage": 24,
+    "verified": true
+  },
+  {
+    "id": "quiz_010",
+    "question": "What is the meaning of 'Gher Aavo'?",
+    "questionTamil": "'Gher Aavo' என்பதன் பொருள் என்ன?",
+    "options": [
+      "வீட்டுக்கு வா (Come home)",
+      "வெளியே போ (Go out)",
+      "தண்ணீர் குடி (Drink water)",
+      "பாடம் படி (Read lesson)"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "According to page 7 of the PDF, 'Gher Aavo' means 'Come home' / 'வீட்டுக்கு வா'.",
+    "category": "Phrases",
+    "source": "Learn-English-Through-Sourashtra.pdf",
+    "sourcePage": 7,
+    "verified": true
+  }
+]

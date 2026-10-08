@@ -1,0 +1,82 @@
+[
+  {
+    "id": "chap_1",
+    "chapterNumber": 1,
+    "title": "Root Similarity Words",
+    "tamilTitle": "வேர்ச்சொற்கள் & ஒற்றுமைச் சொற்கள்",
+    "description": "Learn foundational root words that share striking similarities across Sourashtra, Tamil, and Sanskrit.",
+    "icon": "🌱",
+    "category": "Foundation",
+    "wordsCount": 7
+  },
+  {
+    "id": "chap_2",
+    "chapterNumber": 2,
+    "title": "Essential Verbs & Actions",
+    "tamilTitle": "முக்கிய வினைச்சொற்கள் & செயல்கள்",
+    "description": "Master core action words and their usage with clear example sentences.",
+    "icon": "⚡",
+    "category": "Verb",
+    "wordsCount": 57
+  },
+  {
+    "id": "chap_3",
+    "chapterNumber": 3,
+    "title": "Family, Relatives & House",
+    "tamilTitle": "குடும்ப உறவுகள் & வீட்டுப் பொருட்கள்",
+    "description": "Vocabulary for family members, relatives, kitchen articles, and household items.",
+    "icon": "👨‍👩‍👧‍👦",
+    "category": "Family",
+    "wordsCount": 20
+  },
+  {
+    "id": "chap_4",
+    "chapterNumber": 4,
+    "title": "Food, Nature & Animals",
+    "tamilTitle": "உணவு, இயற்கை & விலங்குகள்",
+    "description": "Words for food, grains, vegetables, fruits, animals, birds, weather, and universe.",
+    "icon": "🌾",
+    "category": "Food",
+    "wordsCount": 40
+  },
+  {
+    "id": "chap_5",
+    "chapterNumber": 5,
+    "title": "Numbers, Time & Colours",
+    "tamilTitle": "எண்கள், காலங்கள், உலோகங்கள் & நிறங்கள்",
+    "description": "Counting numbers, days of the week, times of day, metals, and color names.",
+    "icon": "🔢",
+    "category": "Number",
+    "wordsCount": 32
+  },
+  {
+    "id": "chap_6",
+    "chapterNumber": 6,
+    "title": "Comprehensive Antonyms",
+    "tamilTitle": "எதிர்ச்சொற்கள் (Opposite Pairs)",
+    "description": "Essential antonym pairs for conversational contrast and vocabulary enrichment.",
+    "icon": "🔄",
+    "category": "Antonyms",
+    "wordsCount": 18
+  },
+  {
+    "id": "chap_7",
+    "chapterNumber": 7,
+    "title": "Daily Phrases & Conversations",
+    "tamilTitle": "தினசரி உரையாடல் வாக்கியங்கள் & உரையாடல்கள்",
+    "description": "Polite greetings, daily conversational lines, shopping dialogues, doctor visits, and travel questions.",
+    "icon": "💬",
+    "category": "Phrases",
+    "wordsCount": 47
+  },
+  {
+    "id": "chap_8",
+    "chapterNumber": 8,
+    "title": "Grammar & Tense Builders",
+    "tamilTitle": "இலக்கண அமைப்புகள் & கால வாக்கியங்கள்",
+    "description": "Pronouns, case markers, postpositions, and Present/Past/Future tense sentence builders.",
+    "icon": "📐",
+    "category": "Grammar",
+    "wordsCount": 791
+  }
+]

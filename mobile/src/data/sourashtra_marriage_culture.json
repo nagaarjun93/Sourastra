@@ -1,0 +1,922 @@
+[
+  {
+    "sourashtra": "ஒடு3வம்",
+    "pronunciation": "oDuvam",
+    "tamil": "பூணூல் கல்யாணம்",
+    "english": "Sacred thread wearing function",
+    "sourashtraSentence": "ஒடு3வம் 5, 7, 9 ந்ஹீஜியெத் 11 ஒர்ஸும் கெரஸுன்",
+    "pronunciationSentence": "oDuvam 5, 7, 9 nheejiyet 11 orsum kerasun",
+    "tamilSentence": "உபநயனம் 5, 7, 9 அல்லது 11 வயதில் செய்யப்படுகிறது",
+    "englishSentence": "Upanayanam is done at the age of 5, 7, 9 or 11 years"
+  },
+  {
+    "sourashtra": "ஜெஞ்ஜெம்",
+    "pronunciation": "jenjjem",
+    "tamil": "பூணூல்",
+    "english": "Sacred thread",
+    "sourashtraSentence": "ப4வள்னு, க்ஷத்ரியர்னு அங்கு3 வைஸ்யர்னு ஜெஞ்ஜெம் க4ல்லஸுன்",
+    "pronunciationSentence": "bhavaLnu, kshatriyarnu anggu vaisyarnu jenjjem ghallasun",
+    "tamilSentence": "பிராமணர்கள், க்ஷத்திரியர்கள் மற்றும் வைசியர்கள் பூணூல் அணிவார்கள்",
+    "englishSentence": "Jenjam is worn by Brahmins, Kshatriyas and Vaisya"
+  },
+  {
+    "sourashtra": "ஸௌணால்",
+    "pronunciation": "sauNaal",
+    "tamil": "ஆவணி அவிட்டம்",
+    "english": "Sacred thread Renewal Day",
+    "sourashtraSentence": "ஸௌணால் தி3 ஜெஞ்ஜெம் மர்ச்சிலி வேது3ன் அப்4யாஸ் கெர்னொ",
+    "pronunciationSentence": "sauNaal di jenjjem marccili vEdun abhyaas kerno",
+    "tamilSentence": "ஆவணி அவிட்டம் அன்று பூணூல் புதுப்பித்து வேதம் பயில வேண்டும்",
+    "englishSentence": "On Avani Avittam, Jenjem should be renewed and Veda should be practiced"
+  },
+  {
+    "sourashtra": "ப்ராமொபெ3ட்3கி",
+    "pronunciation": "praamobeDki",
+    "tamil": "காதலி",
+    "english": "Girlfriend, Lovergirl, Lover girl",
+    "sourashtraSentence": "தெனொ தொரெ ப்ராமொபெ3ட்கியா?",
+    "pronunciationSentence": "teno tore praamobeTkiyaa?",
+    "tamilSentence": "அவள் உன் காதலியா?",
+    "englishSentence": "Is she your girlfriend?"
+  },
+  {
+    "sourashtra": "ப்ராமொபெ3ட்3கொ",
+    "pronunciation": "praamobeDko",
+    "tamil": "காதலன்",
+    "english": "Boyfriend, Loverboy, Lover boy",
+    "sourashtraSentence": "தெனொ அபுல் ப்ராமொபெ3ட்3காக் ஹொராட்3 கெர்லிஸ்",
+    "pronunciationSentence": "teno apul praamobeDkaak horaaD kerlis",
+    "tamilSentence": "அவள் தன் காதலனை மணந்தாள்",
+    "englishSentence": "She married her lover boy"
+  },
+  {
+    "sourashtra": "ப்ரேமி",
+    "pronunciation": "prEmi",
+    "tamil": "காதலன், காதலி",
+    "english": "Lover, Darling, Loverboy, Lovergirl",
+    "sourashtraSentence": "தெனொ மொரெ ப்ரேமி",
+    "pronunciationSentence": "teno more prEmi",
+    "tamilSentence": "அவள் என் காதலி",
+    "englishSentence": "She is my lover"
+  },
+  {
+    "sourashtra": "ஜர்கெம் பான், பான்",
+    "pronunciation": "jarkem paan, paan",
+    "tamil": "ஜாதகம்",
+    "english": "Horoscope, Birth Chart",
+    "sourashtraSentence": "தெ2வ்டெ3தெனு ஜர்கெம் பான் ஸானாத்தக் ஹொராட்3 கெர்லஸுன்",
+    "pronunciationSentence": "thevDetenu jarkem paan saanaattak horaaD kerlasun",
+    "tamilSentence": "சிலர் ஜாதகம் பார்க்காமல் திருமணம் செய்து கொள்கின்றனர்",
+    "englishSentence": "Some people get married without looking at horoscopes"
+  },
+  {
+    "sourashtra": "செர்ச்சி ஸா, செர்ச்சி ஸவொ",
+    "pronunciation": "cercci saa, cercci savo",
+    "tamil": "பொருத்து",
+    "english": "Match",
+    "sourashtraSentence": "பெ3ட்கா பெ3ட்கி பான் செர்ச்சி ஸா",
+    "pronunciationSentence": "beTkaa beTki paan cercci saa",
+    "tamilSentence": "பையன் மற்றும் பெண்ணின் ஜாதகங்களைப் பொருத்தவும்",
+    "englishSentence": "Match horoscopes of boy and girl"
+  },
+  {
+    "sourashtra": "செர்னி",
+    "pronunciation": "cerni",
+    "tamil": "பொருத்தம்",
+    "english": "Match, Compatible",
+    "sourashtraSentence": "பான் செர்ர்ஹியெத் ஹொராட்3 கெர்லுவாய்",
+    "pronunciationSentence": "paan cerrhiyet horaaD kerluvaay",
+    "tamilSentence": "ஜாதகம் பொருத்தமாக இருந்தால் திருமணம் செய்து கொள்ளலாம்",
+    "englishSentence": "If the horoscopes are compatible, they can marry"
+  },
+  {
+    "sourashtra": "செர்னி ந்ஹினா",
+    "pronunciation": "cerni nhinaa",
+    "tamil": "பொருத்தமின்மை",
+    "english": "Mismatch, Incompatible",
+    "sourashtraSentence": "எல்லெ தீ3 பானுன் செர்னி ந்ஹீனாத்தெயொ",
+    "pronunciationSentence": "elle dee paanun cerni nheenaatteyo",
+    "tamilSentence": "இந்த இரண்டு ஜாதகங்களும் பொருத்தமற்றவை",
+    "englishSentence": "Both these horoscopes are incompatible"
+  },
+  {
+    "sourashtra": "செரய்",
+    "pronunciation": "ceray",
+    "tamil": "பொருந்தும்",
+    "english": "Will match, Compatible, Applicable",
+    "sourashtraSentence": "எல்லெ தீ3 பானுன் செரய்",
+    "pronunciationSentence": "elle dee paanun ceray",
+    "tamilSentence": "இந்த இரண்டு ஜாதகங்களும் பொருந்தும்",
+    "englishSentence": "Both these horoscopes are compatible"
+  },
+  {
+    "sourashtra": "செர்னா",
+    "pronunciation": "cernaa",
+    "tamil": "பொருந்தாது, பொருத்தமின்மை",
+    "english": "Will not match, Mismatch, Incompatible, Not applicable",
+    "sourashtraSentence": "எல்லெ தீ3 பானுன் செர்னா",
+    "pronunciationSentence": "elle dee paanun cernaa",
+    "tamilSentence": "இந்த இரண்டு ஜாதகங்களும் பொருந்தாது,",
+    "englishSentence": "These two horoscopes are incompatible"
+  },
+  {
+    "sourashtra": "செரத்திஸா",
+    "pronunciation": "cerattisaa",
+    "tamil": "பொருந்தக்கூடிய",
+    "english": "Compatible, Applicable, Apt",
+    "sourashtraSentence": "எல்லெ செரத்திஸா பானுன்",
+    "pronunciationSentence": "elle cerattisaa paanun",
+    "tamilSentence": "இவை பொருந்தக்கூடிய ஜாதகங்கள்",
+    "englishSentence": "These are compatible horoscopes"
+  },
+  {
+    "sourashtra": "செர்னாத்திஸா",
+    "pronunciation": "cernaattisaa",
+    "tamil": "பொருந்தாத",
+    "english": "Incompatible, Not applicable",
+    "sourashtraSentence": "எல்லெ செர்னாத்திஸா பானுன்",
+    "pronunciationSentence": "elle cernaattisaa paanun",
+    "tamilSentence": "இவை பொருந்தாத ஜாதகங்கள்",
+    "englishSentence": "These are incompatible horoscopes"
+  },
+  {
+    "sourashtra": "நிகு3",
+    "pronunciation": "nigu",
+    "tamil": "முடிவு",
+    "english": "Finalize, Confirm",
+    "sourashtraSentence": "கொனக்கி தெல்லெ பெ3ட்காக் பெ3ட்கி நிகு3 கெர்த்தியா",
+    "pronunciationSentence": "konakki telle beTkaak beTki nigu kerttiyaa",
+    "tamilSentence": "எப்படியோ அந்த பையனுக்கு பெண்ணை முடிவு செய்துவிட்டார்கள்",
+    "englishSentence": "Somehow they finalised the girl for the boy"
+  },
+  {
+    "sourashtra": "கெ4ட்டிவிடொ3",
+    "pronunciation": "gheTTiviDo",
+    "tamil": "நிச்சயதார்த்தம்",
+    "english": "Betrothal, Engagement",
+    "sourashtraSentence": "கெ4ட்டிவிடொ3 ப2ராது ஹொராடு3க் உன்னொபொட3யொ 6 ம்ஹடொ3 ஹோயி",
+    "pronunciationSentence": "gheTTiviDo pharaatu horaaDuk unnopoDayo 6 mhaDo hOyi",
+    "tamilSentence": "நிச்சயதார்த்தத்திற்குப் பிறகு திருமணத்திற்கு குறைந்தது 6 மாதங்கள் ஆகும்",
+    "englishSentence": "Marriage takes at least 6 months after engagement"
+  },
+  {
+    "sourashtra": "கெ4ட்டிகெரெ நொவ்ரொ",
+    "pronunciation": "gheTTikere novro",
+    "tamil": "வருங்கால கணவன்",
+    "english": "Fiance, Fiancé",
+    "sourashtraSentence": "தெனு மொரெ கெ4ட்டிகெரெ நொவ்ரொ",
+    "pronunciationSentence": "tenu more gheTTikere novro",
+    "tamilSentence": "அவர் என் வருங்கால கணவர்",
+    "englishSentence": "He is my fiance"
+  },
+  {
+    "sourashtra": "கெ4ட்டிகெரெ நொவ்ரி",
+    "pronunciation": "gheTTikere novri",
+    "tamil": "வருங்கால மனைவி",
+    "english": "Fiancee, Fiancée",
+    "sourashtraSentence": "தெனு அபுல் கெ4ட்டிகெரெ நொவ்ரிக் ஒண்டெ முத்3தி3க் ஜேம் தி3யாஸி",
+    "pronunciationSentence": "tenu apul gheTTikere novrik oNTe muddik jEm diyaasi",
+    "tamilSentence": "அவர் தனது வருங்கால மனைவிக்கு ஒரு மோதிரத்தை பரிசளித்தார்",
+    "englishSentence": "He gifted his fiance a ring"
+  },
+  {
+    "sourashtra": "தெ3வ்லய்",
+    "pronunciation": "devlay",
+    "tamil": "திருமண சம்பந்தம், திருமண உறவு",
+    "english": "Matrimonial relationship",
+    "sourashtraSentence": "அமி தெங்கொ3 ஸெரொ தெ3வ்லய் கெர்ல்ரியொ",
+    "pronunciationSentence": "ami tenggo sero devlay kerlriyo",
+    "tamilSentence": "நாங்கள் அவர்களுடன் திருமண சம்பந்தம் செய்துள்ளோம்",
+    "englishSentence": "We have matrimonial relations with them"
+  },
+  {
+    "sourashtra": "தே3ஸ்ஹன்னவ்",
+    "pronunciation": "dEshannav",
+    "tamil": "ஒப்பு தாம்புலம்",
+    "english": "Token Betrothal",
+    "sourashtraSentence": "பெ3ட்க கெரான் தே3ஸ்ஹன்னவ்கன் ரூ 51 தி3யாஸி",
+    "pronunciationSentence": "beTka keraan dEshannavkan roo 51 diyaasi",
+    "tamilSentence": "பையன் தரப்பில் ஒப்பு தாம்புலமாக ரூ.51 கொடுத்தார்கள்",
+    "englishSentence": "They gave Rs 51 as Token Betrothel from the boy side"
+  },
+  {
+    "sourashtra": "தெ3வுகாஸ்",
+    "pronunciation": "devukaas",
+    "tamil": "திருமணத்திற்கு முன்தினம்",
+    "english": "Day before marriage, Eve of marriage",
+    "sourashtraSentence": "தெ3வுகாஸ் தெந்து3ஸ் அபுல் கொ4ம்மா தே3வ்தானுக் பாய்ஞ்பொட3ஸுன்",
+    "pronunciationSentence": "devukaas tendus apul ghommaa dEvtaanuk paaynjpoDasun",
+    "tamilSentence": "திருமணத்திற்கு முந்தைய நாள் தங்கள் வீட்டு தேவதைகளை வழிபடுகிறார்கள்",
+    "englishSentence": "They worship their household deities on the eve of marriage"
+  },
+  {
+    "sourashtra": "பெரண்ட3ம்",
+    "pronunciation": "peraNDam",
+    "tamil": "சுமங்கலி பூஜை",
+    "english": "Sumangali Puja",
+    "sourashtraSentence": "பெரண்ட3மு பாஞ்ஜு ஸுமங்க3லினுக் புஜொ கெரனு",
+    "pronunciationSentence": "peraNDamu paanjju sumanggalinuk pujo keranu",
+    "tamilSentence": "சுமங்கலி பிரார்த்தனையில் ஐந்து சுமங்கலிகளுக்கு பூஜை செய்வார்கள்",
+    "englishSentence": "In Sumangali prayer five Sumangalis are worshiped"
+  },
+  {
+    "sourashtra": "பௌ4லாஸ்",
+    "pronunciation": "bhaulaas",
+    "tamil": "பரம்பரை பற்றி சொல்லுதல்",
+    "english": "Lineage briefing",
+    "sourashtraSentence": "ஸௌராஷ்டிரர்னு ஹொராடு3ம் பௌ4லாஸ் ஸங்க3னு",
+    "pronunciationSentence": "sauraashTirarnu horaaDum bhaulaas sangganu",
+    "tamilSentence": "சௌராஷ்டிரர்கள் திருமணத்தில் பரம்பரை பற்றி சொல்வார்கள்",
+    "englishSentence": "Saurashtras tell about lineage in marriage"
+  },
+  {
+    "sourashtra": "மஹால்",
+    "pronunciation": "mahaal",
+    "tamil": "மண்டபம்",
+    "english": "Hall, Auditorium",
+    "sourashtraSentence": "ஹொராடு3க் மஹால் வெக்கத்தெ ம்ஹொட்டொ காம்கன் ஸே",
+    "pronunciationSentence": "horaaDuk mahaal vekkatte mhoTTo kaamkan sE",
+    "tamilSentence": "கல்யாணத்திற்கு மண்டபம் தேடுவது பெரிய வேலையாக இருக்கிறது",
+    "englishSentence": "Finding a wedding hall is a big task"
+  },
+  {
+    "sourashtra": "மொண்ட3வ்",
+    "pronunciation": "moNDav",
+    "tamil": "மண்டபம்",
+    "english": "Hall, Auditorium",
+    "sourashtraSentence": "ஹொராடு3 மொண்ட3வும் பாய்ஞ் தொ2வத்த முஸுனாத்த தூ3ருக் மூகொ3",
+    "pronunciationSentence": "horaaDu moNDavum paaynj thovatta musunaatta dooruk moogo",
+    "tamilSentence": "திருமண மண்டபத்தில் கால் வைக்க முடியாத அளவுக்கு கூட்டம்",
+    "englishSentence": "The wedding hall was so crowded that it was impossible to set foot"
+  },
+  {
+    "sourashtra": "ஹொராடு3 மொண்ட3வ்",
+    "pronunciation": "horaaDu moNDav",
+    "tamil": "திருமண மண்டபம்",
+    "english": "Wedding hall, Marriage hall",
+    "sourashtraSentence": "எல்லெ ஹொராடு3 மொண்ட3வும் 500 தெனுன் பி3ஸத்தக் முஸை",
+    "pronunciationSentence": "elle horaaDu moNDavum 500 tenun bisattak musai",
+    "tamilSentence": "இந்த திருமண மண்டபத்தில் 500 பேர் அமர முடியும்",
+    "englishSentence": "This wedding hall can seat 500 people"
+  },
+  {
+    "sourashtra": "மௌடொ3",
+    "pronunciation": "mauDo",
+    "tamil": "பந்தல்",
+    "english": "Coconut leaf awning",
+    "sourashtraSentence": "மௌடொ3க் பொ3து3லு ஷாமியானா அவ்டி3யொ",
+    "pronunciationSentence": "mauDok bodulu shaamiyaanaa avDiyo",
+    "tamilSentence": "பந்தலுக்கு பதிலாக ஷாமியானா வந்துவிட்டது",
+    "englishSentence": "Shamiyana has replaced coconut leaf awning"
+  },
+  {
+    "sourashtra": "தொரண்",
+    "pronunciation": "toraN",
+    "tamil": "தோரணம்",
+    "english": "Leaf Hanging",
+    "sourashtraSentence": "மௌடா3ம் தொரண் லொம்ப3 ஸொட3ஸுன்",
+    "pronunciationSentence": "mauDaam toraN lomba soDasun",
+    "tamilSentence": "பந்தலில் தோரணத்தை தொங்கவிடுகிறார்கள்",
+    "englishSentence": "They hang the Leaf Hanging on the awning"
+  },
+  {
+    "sourashtra": "கா2ம்பு3",
+    "pronunciation": "khaambu",
+    "tamil": "தூண், கம்பம்",
+    "english": "Pillar, Post",
+    "sourashtraSentence": "மௌடா3க் பொ3ங்கு3 கா2ம்பு3 ப்ரயோக்3 கெரஸுன்",
+    "pronunciationSentence": "mauDaak bonggu khaambu prayOg kerasun",
+    "tamilSentence": "பந்தலுக்கு மூங்கில் கம்புகளை பயன்படுத்துகிறார்கள்",
+    "englishSentence": "They use Bamboo pillars for awnings"
+  },
+  {
+    "sourashtra": "பத்திரிக்கெ",
+    "pronunciation": "pattirikke",
+    "tamil": "அழைப்பிதழ்",
+    "english": "Invitation",
+    "sourashtraSentence": "மாய்பா3புன் அபுல் ஒஸ்துனுக் பத்திரிக்கெ தொ2வி பொ3வஸுன்",
+    "pronunciationSentence": "maaybaapun apul ostunuk pattirikke thovi bovasun",
+    "tamilSentence": "பெற்றோர்கள் தங்கள் உறவினர்களை அழைப்பிதழுடன் அழைக்கிறார்கள்",
+    "englishSentence": "Parents invite their relatives with invitation"
+  },
+  {
+    "sourashtra": "நொவ்ரொ",
+    "pronunciation": "novro",
+    "tamil": "மணமகன்",
+    "english": "Groom, Bridegroom",
+    "sourashtraSentence": "நொவ்ரொ நொவ்ரி கெ3லாம் பொ3ட்டு ப4ந்த3ராஸ்",
+    "pronunciationSentence": "novro novri gelaam boTTu bhandaraas",
+    "tamilSentence": "மணமகன் மணமகளின் கழுத்தில் தாலி கட்டுகிறார்",
+    "englishSentence": "Groom ties the holy thread around the bride's neck"
+  },
+  {
+    "sourashtra": "நொவ்ரி",
+    "pronunciation": "novri",
+    "tamil": "மணமகள்",
+    "english": "Bride",
+    "sourashtraSentence": "நொவ்ரி கொ3ண்ட்யாவ்ஹால் ஹாத் ஸிங்க3ல்ரிஸ்",
+    "pronunciationSentence": "novri goNTyaavhaal haat singgalris",
+    "tamilSentence": "மணமகள் மருதாணியால் கையை அலங்கரித்துள்ளாள்",
+    "englishSentence": "The bride has adorned her hand with henna"
+  },
+  {
+    "sourashtra": "நஸ்தியான்",
+    "pronunciation": "nastiyaan",
+    "tamil": "மணமகனின் நண்பர்",
+    "english": "Bridegroom's friend",
+    "sourashtraSentence": "நஸ்தியானுக் சொக்கட் கௌ3ஞ்சுலுவொ",
+    "pronunciationSentence": "nastiyaanuk cokkaT gaunjculuvo",
+    "tamilSentence": "மணமகனின் நண்பர்களை நன்றாக கவனித்துக் கொள்ளுங்கள்",
+    "englishSentence": "Take good care of the groom's friends"
+  },
+  {
+    "sourashtra": "அட்பி",
+    "pronunciation": "aTpi",
+    "tamil": "மணப்பெண் தோழி",
+    "english": "Bride's Friend",
+    "sourashtraSentence": "அட்பின் நொவ்ரிக் ஸிங்க3ர்லேத் ஹொத்3யாஸ்",
+    "pronunciationSentence": "aTpin novrik singgarlEt hodyaas",
+    "tamilSentence": "மணமகளின் தோழிகள் மணமகளை அலங்கரித்துக்கொண்டிருந்தனர்",
+    "englishSentence": "The bride's friends were decorating the bride"
+  },
+  {
+    "sourashtra": "தொ3ரிம்பொ3ட்டு",
+    "pronunciation": "dorimboTTu",
+    "tamil": "தாலிக்கயிறு",
+    "english": "Holy Thread, Mangal Sutra",
+    "sourashtraSentence": "தொ3ரிம்பொ3ட்டு ஹொராட்3 ஹொயாத்தெகா3 லெக்ஷன்",
+    "pronunciationSentence": "dorimboTTu horaaD hoyaattegaa lekshan",
+    "tamilSentence": "தாலி திருமணம் ஆனதற்கான அடையாளமாகும்",
+    "englishSentence": "The sacred thread is a symbol of marriage"
+  },
+  {
+    "sourashtra": "பாய்ஞ் மிஞ்ஜி",
+    "pronunciation": "paaynj minjji",
+    "tamil": "மெட்டி",
+    "english": "Toe ring worn by married women",
+    "sourashtraSentence": "ஹொராட்3 ஹொயெ பெ3ய்லன் பாய்ஞிம் மிஞ்ஜி க4ல்லன்",
+    "pronunciationSentence": "horaaD hoye beylan paaynjim minjji ghallan",
+    "tamilSentence": "திருமணமான பெண்கள் காலில் மோதிரம் அணிவார்கள்",
+    "englishSentence": "Married women wear rings on their feet"
+  },
+  {
+    "sourashtra": "தொ4ண்டொ3",
+    "pronunciation": "dhoNDo",
+    "tamil": "மேளம்",
+    "english": "Drums",
+    "sourashtraSentence": "ஸுப4 காமுனுக் தொ4ண்டொ3 தெட்டஸுன்",
+    "pronunciationSentence": "subha kaamunuk dhoNDo teTTasun",
+    "tamilSentence": "சுப காரியங்களுக்கு மேளம் அடிக்கப்படுகிறது",
+    "englishSentence": "Drums are played for auspicious activities"
+  },
+  {
+    "sourashtra": "நஸுரால்",
+    "pronunciation": "nasuraal",
+    "tamil": "நாதஸ்வரம், நாகஸ்வரம்",
+    "english": "Indian Wind Instrument, Nagaswaram, Nathaswaram",
+    "sourashtraSentence": "நஸுரால் பு2வத்தெ ஜு2க்குகன் த3ல்லானூஸ்",
+    "pronunciationSentence": "nasuraal phuvatte jhukkukan dallaanoos",
+    "tamilSentence": "நாதஸ்வரம் வாசிப்பது பெரும்பாலும் ஆண்கள்தான்",
+    "englishSentence": "Nathswaram is mostly played by men"
+  },
+  {
+    "sourashtra": "கி4ங்கம்",
+    "pronunciation": "ghingkam",
+    "tamil": "கைத்தளம், ஜால்ரா",
+    "english": "Cymbal",
+    "sourashtraSentence": "ப4ஜன் கெரத்தெனு கி4ங்கம் தெட்டஸுன்",
+    "pronunciationSentence": "bhajan kerattenu ghingkam teTTasun",
+    "tamilSentence": "பஜனை செய்பவர்கள் ஜால்ரா இசைக்கின்றனர்",
+    "englishSentence": "Those who perform bhajans play Cymbols"
+  },
+  {
+    "sourashtra": "ஹொராட்3",
+    "pronunciation": "horaaD",
+    "tamil": "திருமணம்",
+    "english": "Marriage, Wedding",
+    "sourashtraSentence": "ஹொராட்3 மெனரியொ 1000 ஒர்ஸு பீகு",
+    "pronunciationSentence": "horaaD menariyo 1000 orsu peeku",
+    "tamilSentence": "திருமணம் என்பது 1000 வருட பயிர்",
+    "englishSentence": "Marriage is a 1000 year crop"
+  },
+  {
+    "sourashtra": "லெய்ன்",
+    "pronunciation": "leyn",
+    "tamil": "திருமணம்",
+    "english": "Marriage, Wedding",
+    "sourashtraSentence": "லெய்னு ஸௌளொ ஒண்டெ லெக்கு ருவாயிக் மெல்லொ அப்3ப3யி",
+    "pronunciationSentence": "leynu sauLo oNTe lekku ruvaayik mello abbayi",
+    "tamilSentence": "திருமணப் புடவைகள் ஒரு லட்சம் ரூபாய்க்கு கூட கிடைக்கும்",
+    "englishSentence": "Wedding sarees are available for lakh rupees too"
+  },
+  {
+    "sourashtra": "லெகின்",
+    "pronunciation": "lekin",
+    "tamil": "திருமணம்",
+    "english": "Marriage, Wedding",
+    "sourashtraSentence": "லெகினு தெந்து3ஸ் அஸ்கி ஊகுனுக் மிளுவாயி",
+    "pronunciationSentence": "lekinu tendus aski uukunuk miLuvaayi",
+    "tamilSentence": "திருமணத்தன்று அனைத்து உறவினர்களையும் சந்திக்கலாம்",
+    "englishSentence": "We can meet all the relatives on the day of marriage"
+  },
+  {
+    "sourashtra": "ஆஶிர்வாத்3",
+    "pronunciation": "aassirvaad",
+    "tamil": "ஆசிர்வாதம்",
+    "english": "Blessings",
+    "sourashtraSentence": "அஸ்கிதெனு ஹொராட்3ஹொயெ த3ம்பதினுக் ஆஶிர்வாத்3 கெரராஸி",
+    "pronunciationSentence": "askitenu horaaDhoye dampatinuk aassirvaad keraraasi",
+    "tamilSentence": "அனைவரும் திருமணமான தம்பதிகளை ஆசீர்வதிக்கிறார்கள்",
+    "englishSentence": "All bless the married couple"
+  },
+  {
+    "sourashtra": "ப3து3லொ",
+    "pronunciation": "badulo",
+    "tamil": "ஓம குண்டம்",
+    "english": "Pit dug out in the ground for keeping sacrificial fire",
+    "sourashtraSentence": "ப3து3லாம் தூப் ஸொடி3 ஹோம் கெரஸுன்",
+    "pronunciationSentence": "badulaam toop soDi hOm kerasun",
+    "tamilSentence": "ஓம குண்டத்தில் நெய் ஊற்றி ஹோமம் நடத்தப்படுகிறது",
+    "englishSentence": "Sacrifice is performed by pouring ghee in Oma Kund"
+  },
+  {
+    "sourashtra": "வர்த்து",
+    "pronunciation": "varttu",
+    "tamil": "நலங்கு, நலுங்கு",
+    "english": "Marriage ritual game - Coconut rolling",
+    "sourashtraSentence": "வர்த்து நொவ்ரா நொவ்ரினு கொஞ்சுதொ ஜவட3ஸு",
+    "pronunciationSentence": "varttu novraa novrinu konjcuto javaDasu",
+    "tamilSentence": "நலங்கு மணமகன் மணமகளின் வெட்கத்தை போக்குகிறது",
+    "englishSentence": "Nalangu relieves the shyness of the Groom and bride"
+  },
+  {
+    "sourashtra": "ப4வனி",
+    "pronunciation": "bhavani",
+    "tamil": "ஊர்வலம்",
+    "english": "Procession",
+    "sourashtraSentence": "உத்தர பா4ரது ஹொராடு3 ப4வனிம் நொவ்ரொ கொ4டொ3 ஹொல்லொ அவயி",
+    "pronunciationSentence": "uttara bhaaratu horaaDu bhavanim novro ghoDo hollo avayi",
+    "tamilSentence": "வட இந்திய திருமண ஊர்வலத்தில், மாப்பிள்ளை குதிரையில் வருவார்",
+    "englishSentence": "In North Indian wedding processions, the groom arrives on horseback"
+  },
+  {
+    "sourashtra": "சுட்டு",
+    "pronunciation": "cuTTu",
+    "tamil": "ஊர்வலம்",
+    "english": "Procession",
+    "sourashtraSentence": "தே3வு சுட்டும் ஐஸ்துகின் முயி முது3ல்லொ அவயி",
+    "pronunciationSentence": "dEvu cuTTum aistukin muyi mudullo avayi",
+    "tamilSentence": "சாமி ஊர்வலத்தில் யானையும் ஒட்டகமும் முதலில் வரும்",
+    "englishSentence": "Elephant and camel come first in Deity procession"
+  },
+  {
+    "sourashtra": "ஒராத் சுட்டு",
+    "pronunciation": "oraat cuTTu",
+    "tamil": "புதிய திருமண ஜோடியின் ஓரிரவு ஊர்வலம்",
+    "english": "New wed couple's one night procession",
+    "sourashtraSentence": "நொவ்வொ த3ம்பதின் ஒராத் சுட்டும் ஸொவ்ரானுக் மிளஸுன்",
+    "pronunciationSentence": "novvo dampatin oraat cuTTum sovraanuk miLasun",
+    "tamilSentence": "புதுமணத் தம்பதிகள் ஓரிரவு ஊர்வலத்தில் உறவினர்களைச் சந்திக்கிறார்கள்",
+    "englishSentence": "The newlyweds meet relatives on a \"One night procession\""
+  },
+  {
+    "sourashtra": "மியாரொ",
+    "pronunciation": "miyaaro",
+    "tamil": "சீர்வரிசை, சீதனம், முறை",
+    "english": "Presents to a married girl, Method",
+    "sourashtraSentence": "மியாரொ ந்ஹாத்தொ கொன்னி ஹொராட்3 சல்னா",
+    "pronunciationSentence": "miyaaro nhaatto konni horaaD calnaa",
+    "tamilSentence": "சீர்வரிசை இல்லாமல் எந்த திருமணமும் நடக்காது",
+    "englishSentence": "No marriage takes place without \"Marriage presents\""
+  },
+  {
+    "sourashtra": "முஹூர்த்து",
+    "pronunciation": "muhoorttu",
+    "tamil": "முஹூர்த்தம், நல்ல நேரம்",
+    "english": "Auspicious Time",
+    "sourashtraSentence": "ஒண்டெ ம்ஹூர்த்து 90 நிமுஷ் லெந்து ர்ஹாயி",
+    "pronunciationSentence": "oNTe mhoorttu 90 nimush lentu rhaayi",
+    "tamilSentence": "ஒரு முஹூர்த்த நேரம் 90 நிமிடங்கள் வரை இருக்கும்",
+    "englishSentence": "One auspicious time will be up to 90 minutes"
+  },
+  {
+    "sourashtra": "ர்ஹவென்",
+    "pronunciation": "rhaven",
+    "tamil": "விருந்தினராக தங்குதல்",
+    "english": "Staying as a guest",
+    "sourashtraSentence": "மொரெ பெ3ய் ஹொல்ல வாரும் ர்ஹவென் அவன்",
+    "pronunciationSentence": "more bey holla vaarum rhaven avan",
+    "tamilSentence": "என் அக்கா அடுத்த வாரம் விருந்தினராக தங்குவார்",
+    "englishSentence": "My sister will be staying as a guest next week"
+  },
+  {
+    "sourashtra": "பொ2வ்னொ",
+    "pronunciation": "phovno",
+    "tamil": "விருந்தாளி",
+    "english": "Guest",
+    "sourashtraSentence": "தெ2வ்டெ3 பொ2வ்னான் கொ2ப்3பி3ம் சூக் ஸங்க3ன்",
+    "pronunciationSentence": "thevDe phovnaan khobbim cook sanggan",
+    "tamilSentence": "சில விருந்தினர்கள் எப்போதும் குறை சொல்வார்கள்",
+    "englishSentence": "Some guests always complain"
+  },
+  {
+    "sourashtra": "ஜெமன்",
+    "pronunciation": "jeman",
+    "tamil": "விருந்து",
+    "english": "Feast, Party",
+    "sourashtraSentence": "ஜு2க்கு ஸௌராஷ்டிரர்னு ஹொராடு3 தீ3தி3 ஜெமன் ஸெந்தொ மட3ஸுன்",
+    "pronunciationSentence": "jhukku sauraashTirarnu horaaDu deedi jeman sento maDasun",
+    "tamilSentence": "பெரும்பாலான சௌராஷ்டிரர்கள் திருமணத்தை இரண்டு நாள் விருந்துகளுடன் கொண்டாடுகிறார்கள்",
+    "englishSentence": "Most Sourashtrians celebrate the wedding with a two-day feast"
+  },
+  {
+    "sourashtra": "ஜொமன்",
+    "pronunciation": "joman",
+    "tamil": "விருந்து",
+    "english": "Feast, Party",
+    "sourashtraSentence": "ஜொமனு பிள்சார் சொக்கட் ருசிகன் ர்ஹாயி",
+    "pronunciationSentence": "jomanu piLcaar cokkaT rucikan rhaayi",
+    "tamilSentence": "விருந்து ரசம் மிகவும் சுவையாக இருக்கும்",
+    "englishSentence": "The feast Rasam will be very tasty"
+  },
+  {
+    "sourashtra": "உஜ்ஜெமன்",
+    "pronunciation": "ujjeman",
+    "tamil": "சிறந்த விருந்து",
+    "english": "Grand Feast",
+    "sourashtraSentence": "ருசிகன் ர்ஹியெத் தெல்லெ ஒண்டெ உஜ்ஜெமனூஸி",
+    "pronunciationSentence": "rucikan rhiyet telle oNTe ujjemanoosi",
+    "tamilSentence": "சுவையாக இருந்தால், அது ஒரு சிறந்த விருந்து",
+    "englishSentence": "If delicious, it is a grand feast"
+  },
+  {
+    "sourashtra": "ஸிஜ்ஜெமன்",
+    "pronunciation": "sijjeman",
+    "tamil": "எஞ்சியதை உண்பது",
+    "english": "Eating leftover",
+    "sourashtraSentence": "து3ர்ப3ள்னுன் ஸிஜ்ஜெமன் கெரஸுன்",
+    "pronunciationSentence": "durbaLnun sijjeman kerasun",
+    "tamilSentence": "ஏழைகள் எஞ்சியதை சாப்பிடுகிறார்கள்",
+    "englishSentence": "Poor people eat leftovers"
+  },
+  {
+    "sourashtra": "ஶிஞ்ஜெமன்",
+    "pronunciation": "ssinjjeman",
+    "tamil": "மீந்து போனதை உண்ணுதல்",
+    "english": "Eating leftover food",
+    "sourashtraSentence": "ஶிஞ்ஜெமன் கெரத்தெ முது3ல்லா சா2ளி போ2ளு",
+    "pronunciationSentence": "ssinjjeman keratte mudullaa chaaLi phOLu",
+    "tamilSentence": "எஞ்சியதை உண்பது முற்பிறவியின் பலன்",
+    "englishSentence": "Eating leftovers is the result of previous birth karma"
+  },
+  {
+    "sourashtra": "கென்னல்",
+    "pronunciation": "kennal",
+    "tamil": "மொய் பணம்",
+    "english": "Marriage contribution (Cash)",
+    "sourashtraSentence": "ஜு2க்கு பொ2வ்னான் கென்னல்கன் ஹன்னவ் தே3ஸுன்",
+    "pronunciationSentence": "jhukku phovnaan kennalkan hannav dEsun",
+    "tamilSentence": "பெரும்பாலான விருந்தினர்கள் திருமண பரிசாக பணம் கொடுக்கிறார்கள்",
+    "englishSentence": "Most guests give money as a wedding gift"
+  },
+  {
+    "sourashtra": "ஶிக்3ரம்",
+    "pronunciation": "ssigram",
+    "tamil": "சீர் பாத்திரம்",
+    "english": "Marriage gift (Utensil)",
+    "sourashtraSentence": "அமி ஶிக்3ரம்கன் ருப்பா தெட்டொ தி3யாஸ்",
+    "pronunciationSentence": "ami ssigramkan ruppaa teTTo diyaas",
+    "tamilSentence": "நாங்கள் சீர் பாத்திரமாக வெள்ளி தட்டு கொடுத்தோம்",
+    "englishSentence": "We gave a silver plate as a marriage gift"
+  },
+  {
+    "sourashtra": "விடொ3",
+    "pronunciation": "viDo",
+    "tamil": "தாம்பூலம்",
+    "english": "Paan, Betal leaf rolled with areca nuts, distributed at marriage function",
+    "sourashtraSentence": "விடொ3 ஸெரொ ஜேம் தே3த்தெ வட்கெ ஹொய்யொ",
+    "pronunciationSentence": "viDo sero jEm dEtte vaTke hoyyo",
+    "tamilSentence": "தாம்பூலத்துடன் பரிசு வழங்குவது வாடிக்கையாகிவிட்டது",
+    "englishSentence": "A gift with the Vido has become routine"
+  },
+  {
+    "sourashtra": "சதுர்விடொ3",
+    "pronunciation": "caturviTeaa",
+    "tamil": "தாம்பூலம்",
+    "english": "Betel, areca nuts distributed at marriage function",
+    "sourashtraSentence": "சதுர்விடொ3 மெனத்தெ மொர்க்3யாத் தெ3க்கடத்தெயொ",
+    "pronunciationSentence": "caturviDo menatte morgyaat dekkaTatteyo",
+    "tamilSentence": "தாம்பூலம் என்பது மரியாதையைக் காட்டுவதாகும்",
+    "englishSentence": "Chaturvidho is a show of respect"
+  },
+  {
+    "sourashtra": "ப2லார்",
+    "pronunciation": "phalaar",
+    "tamil": "இனிப்பு காரம் சீர்வரிசை",
+    "english": "Sweets and Snacks offered after marriage",
+    "sourashtraSentence": "ஹொராடு3 ப2லார்கன் தெந்துலொகின் மைஸுர்பாக் தே3ஸுன்",
+    "pronunciationSentence": "horaaDu phalaarkan tentulokin maisurpaak dEsun",
+    "tamilSentence": "திருமண சீராக முறுக்கும், மைசூர்பாகும் கொடுப்பார்கள்",
+    "englishSentence": "Murukku and Mysorepak are given as part of marriage gift"
+  },
+  {
+    "sourashtra": "ஸம்போ4க3ம்",
+    "pronunciation": "sambhOgam",
+    "tamil": "உடலுறவு",
+    "english": "Sexual intercourse",
+    "sourashtraSentence": "ஸம்போ4க3ம் மெனரியொ ஜித்ரவும் ஒண்டெ பா4கு3",
+    "pronunciationSentence": "sambhOgam menariyo jitravum oNTe bhaagu",
+    "tamilSentence": "உடலுறவு என்பது வாழ்க்கையின் ஒரு பகுதி",
+    "englishSentence": "Intercourse is a part of life"
+  },
+  {
+    "sourashtra": "மைது2னம்",
+    "pronunciation": "maithunam",
+    "tamil": "உடலுறவு",
+    "english": "Sexual intercourse",
+    "sourashtraSentence": "மைது2னம் தெ4ரி கொங்கிஜொவள் வத்தொ கெரஹோனா",
+    "pronunciationSentence": "maithunam dheri kongkijovaL vatto kerahOnaa",
+    "tamilSentence": "உடலுறவு பற்றி யாரிடமும் பேசக்கூடாது",
+    "englishSentence": "Should never talk to anyone about intercourse"
+  },
+  {
+    "sourashtra": "மிள்னி",
+    "pronunciation": "miLni",
+    "tamil": "உடலுறவு",
+    "english": "Sexual intercourse",
+    "sourashtraSentence": "மிள்னி தெ4ரி ஹுட3ப்பன்கொ வத்தொ கெரஹோனா",
+    "pronunciationSentence": "miLni dheri huDappanko vatto kerahOnaa",
+    "tamilSentence": "உறவை வெளிப்படையாக பேசக்கூடாது",
+    "englishSentence": "Intercourse should not be spoken openly"
+  },
+  {
+    "sourashtra": "மொஸ்கொ",
+    "pronunciation": "mosko",
+    "tamil": "மசக்கை",
+    "english": "Morning sickness",
+    "sourashtraSentence": "தெ2வ்டெ3 கெ4ர்பினுக் மொஸ்கொ லக3யி",
+    "pronunciationSentence": "thevDe gherpinuk mosko lagayi",
+    "tamilSentence": "சில கர்ப்பிணி தாய்மார்களுக்கு மசக்கை வரும்",
+    "englishSentence": "Some expectant mothers get morning sickness"
+  },
+  {
+    "sourashtra": "கெ4வ்ரார்",
+    "pronunciation": "ghevraar",
+    "tamil": "கர்ப்பம்",
+    "english": "Pregnancy",
+    "sourashtraSentence": "பெ3ய்லனுன் ரமாரமி 40 வாருன் கெ4வ்ரார் ர்ஹானு",
+    "pronunciationSentence": "beylanun ramaarami 40 vaarun ghevraar rhaanu",
+    "tamilSentence": "பெண்கள் கிட்டத்தட்ட 40 வாரங்கள் கர்ப்பம் இருப்பார்கள்",
+    "englishSentence": "Women are pregnant for almost 40 weeks"
+  },
+  {
+    "sourashtra": "கெ4வ்ரரின்",
+    "pronunciation": "ghevrarin",
+    "tamil": "சூலுற்ற பெண், கர்ப்பிணி பெண்",
+    "english": "Pregnant lady, Pregnant woman",
+    "sourashtraSentence": "கெ4வ்ரரின் ஶிபாரிஸு கெரெ ஸொம்மர் வேன் பா4ர் பொட3ஹோனா",
+    "pronunciationSentence": "ghevrarin ssipaarisu kere sommar vEn bhaar poDahOnaa",
+    "tamilSentence": "கர்ப்பிணிப் பெண்கள் பரிந்துரைக்கப்பட்டதை விட அதிகம் எடை போடக்கூடாது",
+    "englishSentence": "Pregnant women should not gain more weight than recommended"
+  },
+  {
+    "sourashtra": "கெ4ர்பின்",
+    "pronunciation": "gherpin",
+    "tamil": "சூலுற்ற பெண், கர்ப்பிணி பெண்",
+    "english": "Pregnant lady, Pregnant woman",
+    "sourashtraSentence": "கெ4ர்பினுக் அஸ்கிதெனு மொர்க்3யாத்கன் சல்த கெரராஸ்",
+    "pronunciationSentence": "gherpinuk askitenu morgyaatkan calta keraraas",
+    "tamilSentence": "கர்ப்பிணிப் பெண்ணை அனைவரும் மரியாதையுடன் நடத்துகிறார்கள்",
+    "englishSentence": "Everyone treats a pregnant woman with respect"
+  },
+  {
+    "sourashtra": "பல்லினி",
+    "pronunciation": "pallini",
+    "tamil": "சூலுற்ற பெண், கர்ப்பிணி பெண்",
+    "english": "Pregnant lady, Pregnant woman",
+    "sourashtraSentence": "பல்லினி பா3தொ3 பல்லினிக் ஒண்டேஸ் களாய்",
+    "pronunciationSentence": "pallini baado pallinik oNTEs kaLaay",
+    "tamilSentence": "கர்ப்பிணிப் பெண்ணின் வலி கர்ப்பிணிகளுக்கு மட்டுமே தெரியும்",
+    "englishSentence": "Only pregnant women know the pain of a pregnant woman"
+  },
+  {
+    "sourashtra": "க3ர்பி4ணீ",
+    "pronunciation": "garbhiNee",
+    "tamil": "சூலுற்ற பெண், கர்ப்பிணி பெண்",
+    "english": "Pregnant lady, Pregnant woman",
+    "sourashtraSentence": "க3ர்பி4ணீ வேன் ஸீஸொரி சலஸு",
+    "pronunciationSentence": "garbhiNee vEn seesori calasu",
+    "tamilSentence": "கர்ப்பிணிப் பெண் மிகவும் கவனமாக நடக்கிறாள்",
+    "englishSentence": "A pregnant woman walks very carefully"
+  },
+  {
+    "sourashtra": "வெஸனி",
+    "pronunciation": "vesani",
+    "tamil": "ஐந்தாம் மாதம் கர்ப்பிணி செலுத்தும் நேர்த்திக்கடன்",
+    "english": "Fullfilling Vow at the 5th month of Pregnancy",
+    "sourashtraSentence": "தெனொ பஞ்ச்வா ம்ஹடா3ம் வெஸனி கெரிஸி",
+    "pronunciationSentence": "teno panjcvaa mhaDaam vesani kerisi",
+    "tamilSentence": "கர்ப்பத்தின் 5 வது மாதத்தில் அவள் தனது நேர்த்திக்கடனை நிறைவேற்றினார்",
+    "englishSentence": "She fulfilled her vow of prayer in the 5th month of pregnancy"
+  },
+  {
+    "sourashtra": "ஸாத் ம்ஹடொ3",
+    "pronunciation": "saat mhaDo",
+    "tamil": "சீமந்தம்",
+    "english": "Baby Shower",
+    "sourashtraSentence": "ஸாத் ம்ஹடொ3 முஸல்லி கே4ர் பொ3ல்லி அவ்யாஸி",
+    "pronunciationSentence": "saat mhaDo musalli ghEr bolli avyaasi",
+    "tamilSentence": "வளைகாப்பு முடிந்து தாய் வீட்டிற்கு அழைத்து வந்தனர்",
+    "englishSentence": "After the baby shower, they brought her home"
+  },
+  {
+    "sourashtra": "கைனொ பி2ரட்3ணி",
+    "pronunciation": "kaino phiraDNi",
+    "tamil": "வளைகாப்பு",
+    "english": "Baby shower",
+    "sourashtraSentence": "ஸாத் ம்ஹடா3 விஶேஷும் கெ4ர்பினுக் கைனொ பி2ரட3னு",
+    "pronunciationSentence": "saat mhaDaa vissEshum gherpinuk kaino phiraDanu",
+    "tamilSentence": "வளைகாப்பு நிகழ்ச்சியில் கர்ப்பிணிப் பெண்ணுக்கு வளையல் அணிவிப்பார்கள்",
+    "englishSentence": "In baby shower function, bangles are worn on pregnant women"
+  },
+  {
+    "sourashtra": "ஹொவ்டி பொ4வ்ரத்தெ",
+    "pronunciation": "hovTi bhovratte",
+    "tamil": "மடி நிரப்புதல்",
+    "english": "Baby Shower / Godh Bharai",
+    "sourashtraSentence": "ஸாத் ம்ஹடா3 விஶேஷும் ஹொவ்டி3 பொ4வ்ரனு",
+    "pronunciationSentence": "saat mhaDaa vissEshum hovDi bhovranu",
+    "tamilSentence": "வளைகாப்பு நிகழ்ச்சியில் மடி நிரப்புவார்கள்",
+    "englishSentence": "Godh bharai is done at baby shower function"
+  },
+  {
+    "sourashtra": "தொ4வ்லா ஜொமன்",
+    "pronunciation": "dhovlaa joman",
+    "tamil": "வளைகாப்புக்குப் பிறகு மாமியார் வீட்டார் கொடுக்கும் 5 நாள் விருந்து",
+    "english": "5 day feast given by in-laws after baby shower",
+    "sourashtraSentence": "தொ4வ்லா ஜொமன் சொக்கட்3 விஶேஷ்கன் சலெஸி",
+    "pronunciationSentence": "dhovlaa joman cokkaD vissEshkan calesi",
+    "tamilSentence": "கொழுக்கட்டை விருந்து மிக சிறப்பாக நடந்தது",
+    "englishSentence": "The pudding party went very well"
+  },
+  {
+    "sourashtra": "ஜர்க்யம்",
+    "pronunciation": "jarkyam",
+    "tamil": "பிரசவம்",
+    "english": "Delivery, Giving birth",
+    "sourashtraSentence": "கால் தெகொ3 ஸுகோ2ம்கன் ஜர்க்யம் ஹொய்யொ",
+    "pronunciationSentence": "kaal tego sukhOmkan jarkyam hoyyo",
+    "tamilSentence": "நேற்று அவளுக்கு சுகப்பிரசவம் ஆனது",
+    "englishSentence": "She gave birth yesterday"
+  },
+  {
+    "sourashtra": "ப3ள்டின்",
+    "pronunciation": "baLTin",
+    "tamil": "குழந்தைபெற்ற பெண், பிரசவத்த தாய்",
+    "english": "Postnatal Mother",
+    "sourashtraSentence": "ப3ள்டின் அபுல் க2வ்னமு நிகொகன் ர்ஹனொ",
+    "pronunciationSentence": "baLTin apul khavnamu nikokan rhano",
+    "tamilSentence": "பிரசவத்த தாய் தனது உணவில் கவனமாக இருக்க வேண்டும்",
+    "englishSentence": "Postnatal mother should be careful with her diet"
+  },
+  {
+    "sourashtra": "ஸுதி3 தொ2வ்லத்தெ",
+    "pronunciation": "sudi thovlatte",
+    "tamil": "கை சூப்புதல்",
+    "english": "Thumb-sucking",
+    "sourashtraSentence": "ஜு2கு3 பில்லல்னுக் ஸுதி3 தொ2வ்லரியொ வட்கெ ர்ஹாயி",
+    "pronunciationSentence": "jhugu pillalnuk sudi thovlariyo vaTke rhaayi",
+    "tamilSentence": "நிறைய குழந்தைகளுக்கு கை சூப்பும் பழக்கம் இருக்கும்",
+    "englishSentence": "Many children have a habit of Thumb-sucking"
+  },
+  {
+    "sourashtra": "ஸெட்டி",
+    "pronunciation": "seTTi",
+    "tamil": "பெயரிடும் விழா",
+    "english": "Naming ceremony",
+    "sourashtraSentence": "ஸெட்டி விஶேஷும் அஸ்கி ஒஸ்துன் அவ்யாஸி",
+    "pronunciationSentence": "seTTi vissEshum aski ostun avyaasi",
+    "tamilSentence": "பெயர் சூட்டும் விழாவில் அனைத்து உறவினர்களும் வந்தனர்",
+    "englishSentence": "All relatives attended the naming ceremony"
+  },
+  {
+    "sourashtra": "பள்ளொ",
+    "pronunciation": "paLLo",
+    "tamil": "தூளி",
+    "english": "Cloth cradle",
+    "sourashtraSentence": "ந்ஹுரு பள்ளாம் நிஞ்ஜிரஸ்",
+    "pronunciationSentence": "nhuru paLLaam ninjjiras",
+    "tamilSentence": "குழந்தை தூளியில் தூங்குகிறது",
+    "englishSentence": "The baby is sleeping in the cloth cradle"
+  },
+  {
+    "sourashtra": "ஹிந்த3லத்தெ",
+    "pronunciation": "hindalatte",
+    "tamil": "தூளி ஆட்டுதல்",
+    "english": "Rock the cradle",
+    "sourashtraSentence": "பள்ளாக் ஹிந்த3லெத் பில்லொ நிஞ்ஜுல்ட3யி",
+    "pronunciationSentence": "paLLaak hindalet pillo ninjjulDayi",
+    "tamilSentence": "தூளியை ஆட்டினால் குழந்தை தூங்கிவிடும்",
+    "englishSentence": "If we rock the cradle the baby falls asleep"
+  },
+  {
+    "sourashtra": "லாலி",
+    "pronunciation": "laali",
+    "tamil": "தாலாட்டு",
+    "english": "Lullaby",
+    "sourashtraSentence": "துங்கொ3 லாலி க3வத்தக் களாய்யா?",
+    "pronunciationSentence": "tunggo laali gavattak kaLaayyaa?",
+    "tamilSentence": "உங்களுக்கு தாலாட்டுப் பாடத் தெரியுமா?",
+    "englishSentence": "Do you know how to sing a lullaby?"
+  },
+  {
+    "sourashtra": "கொ4ணாம் கொ4ணி",
+    "pronunciation": "ghoNaam ghoNi",
+    "tamil": "தவழுதல்",
+    "english": "Baby crawling",
+    "sourashtraSentence": "நொவத்து ம்ஹடா3ம், பில்லல்னு கொ4ணாம் கொ4ணி க2ளஸு",
+    "pronunciationSentence": "novattu mhaDaam, pillalnu ghoNaam ghoNi khaLasu",
+    "tamilSentence": "ஒன்பதாவது மாதத்தில் குழந்தைகள் தவழும்",
+    "englishSentence": "Babies crawl in the ninth month"
+  },
+  {
+    "sourashtra": "ஜொவள் ஹெட3த்தெ",
+    "pronunciation": "jovaL heDatte",
+    "tamil": "முடியிறக்குதல்",
+    "english": "A ritual in which baby's hair near ear is offered to God",
+    "sourashtraSentence": "பில்லாக் ஒண்டெ ஒர்ஸு ஹோத்த வேள் ஜொவள் ஹெட்3யாஸி",
+    "pronunciationSentence": "pillaak oNTe orsu hOtta vEL jovaL heDyaasi",
+    "tamilSentence": "குழந்தைக்கு ஒரு வருடம் ஆனபோது முடியிறக்கப்பட்டது",
+    "englishSentence": "The child's head was shaved when it was one year old"
+  },
+  {
+    "sourashtra": "கான் மிந்த3த்தெ",
+    "pronunciation": "kaan mindatte",
+    "tamil": "காது குத்துதல்",
+    "english": "Ear piercing",
+    "sourashtraSentence": "பில்லாக் மமா மடி3ம் பி3ஸடி3 கான் மிந்த3னு",
+    "pronunciationSentence": "pillaak mamaa maDim bisaDi kaan mindanu",
+    "tamilSentence": "குழந்தையை தாய் மாமா மடியில் உட்கார வைத்து காது குத்துவார்கள்",
+    "englishSentence": "The child is made to sit on the uncle's lap and the ear is pierced"
+  },
+  {
+    "sourashtra": "ஸேல்",
+    "pronunciation": "sEl",
+    "tamil": "குறும்பு, சேஷ்டை",
+    "english": "Mischief",
+    "sourashtraSentence": "ஸேல் கெர்னாத்த பில்லல்னு ஸேயா?",
+    "pronunciationSentence": "sEl kernaatta pillalnu sEyaa?",
+    "tamilSentence": "குறும்பு செய்யாத குழந்தை உண்டா?",
+    "englishSentence": "Is there a child who has not done mischief?"
+  },
+  {
+    "sourashtra": "வொர்ஸு தி3ன்னு",
+    "pronunciation": "vorsu dinnu",
+    "tamil": "ஆண்டுவிழா",
+    "english": "Anniversary",
+    "sourashtraSentence": "ஹிந்தொ3 தெங்கா3 பஞ்ச்வா ஹொராடு3 ஒர்ஸு தி3ன்னு",
+    "pronunciationSentence": "hindo tenggaa panjcvaa horaaDu orsu dinnu",
+    "tamilSentence": "இன்று அவரது 5வது திருமண ஆண்டுவிழா",
+    "englishSentence": "Today is his 5th wedding anniversary"
+  },
+  {
+    "sourashtra": "பெத்தெ",
+    "pronunciation": "pette",
+    "tamil": "தனிக்குடித்தனம், தனிக்குடும்பம்",
+    "english": "Nuclear family, Seperate family",
+    "sourashtraSentence": "தெனு பெத்தெ ஜிவராஸி",
+    "pronunciationSentence": "tenu pette jivaraasi",
+    "tamilSentence": "அவர்கள் தனிக் குடும்பமாக வாழ்கிறார்கள்",
+    "englishSentence": "They live as a separate family"
+  },
+  {
+    "sourashtra": "ஸாட்டு ஹொராட்3",
+    "pronunciation": "saaTTu horaaD",
+    "tamil": "அறுபதாம் கல்யாணம், மணி விழா, ஷஷ்டியப்த பூர்த்தி",
+    "english": "Wedding on 60th birthday",
+    "sourashtraSentence": "தெனு அபுல் மாய்பா3புக் ஸாட்டு ஹொராட்3 கெர்யாஸி",
+    "pronunciationSentence": "tenu apul maaybaapuk saaTTu horaaD keryaasi",
+    "tamilSentence": "அவர்கள் தங்கள் பெற்றோருக்கு அறுபதாம் கல்யாணத்தை நடத்தினார்கள்",
+    "englishSentence": "They performed their parents' sixtieth wedding"
+  },
+  {
+    "sourashtra": "அஶீதி ஹொராட்3",
+    "pronunciation": "asseeti horaaD",
+    "tamil": "எண்பதாம் கல்யாணம், அஶீதியப்த பூர்த்தி",
+    "english": "Wedding on 80th birthday",
+    "sourashtraSentence": "தெனு அஶீதி ஹொராட்3 கெர்லியாஸி",
+    "pronunciationSentence": "tenu asseeti horaaD kerliyaasi",
+    "tamilSentence": "அவர்கள் எண்பதாம் கல்யாணம் செய்து கொண்டாடினர்",
+    "englishSentence": "They celebrated their 80th wedding anniversary"
+  },
+  {
+    "sourashtra": "ஹொராட்3 துட்டினி",
+    "pronunciation": "horaaD tuTTini",
+    "tamil": "விவாகரத்து",
+    "english": "Divorce",
+    "sourashtraSentence": "ந்ஹன்ன மல்லினி ஹொராட்3 துட்டினி லெந்து ஜேட3ஸு",
+    "pronunciationSentence": "nhanna mallini horaaD tuTTini lentu jEDasu",
+    "tamilSentence": "சிறிய சண்டை விவாகரத்து வரை சென்றுவிடுகிறது",
+    "englishSentence": "Small quarrel leads to divorce"
+  }
+]
