@@ -41,5 +41,8 @@
     "pdf-parse": "^2.4.5",
     "typescript": "^5.9.3"
   },
+  "overrides": {
+    "@types/react": "^19.0.0"
+  },
   "private": true
 }
