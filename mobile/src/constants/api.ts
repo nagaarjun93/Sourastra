@@ -1,12 +1,7 @@
 import { Platform } from 'react-native';
 
-export const DEFAULT_HOST = Platform.select({
-  android: 'http://10.0.2.2:8080/api',
-  ios: 'http://localhost:8080/api',
-  default: 'http://localhost:8080/api',
-});
-
-export const API_BASE_URL = DEFAULT_HOST;
+export const API_BASE_URL = 
+  process.env.EXPO_PUBLIC_API_URL || 'https://sourastra.onrender.com/api';
 
 export const ENDPOINTS = {
   REGISTER: '/auth/register',
