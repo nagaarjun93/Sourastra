@@ -32,7 +32,7 @@
     "@babel/core": "^7.20.0",
     "@react-native-community/cli": "^20.2.0",
     "@react-native-community/cli-server-api": "^20.2.0",
-    "@types/react": "~18.2.45",
+    "@types/react": "^19.0.0",
     "hermes-compiler": "^250829098.0.19",
     "metro": "^0.80.8",
     "metro-cache": "^0.80.12",
