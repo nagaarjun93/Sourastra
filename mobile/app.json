@@ -23,7 +23,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e5a23153-b1a5-4965-9934-f3dfcf15d0a0"
+      }
+    },
+    "owner": "nagaarjun93"
   }
 }
-
