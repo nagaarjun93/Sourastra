@@ -576,7 +576,7 @@ export default function HomeScreen({ navigation }: HomeScreenProps) {
         {/* Feature Cards Section (All Curriculum Modules) */}
         <View style={styles.sectionTitleRow}>
           <Text style={styles.mainSectionTitle}>Explore Learning Modules</Text>
-          <Text style={styles.mainSectionSubtitle}>அனைத்து பாடப் பிரிவுகள்</Text>
+          <Text style={styles.mainSectionSubtitle}>Interactive modules to master Sourashtra step-by-step</Text>
         </View>
 
         <View style={styles.cardList}>
@@ -601,12 +601,6 @@ export default function HomeScreen({ navigation }: HomeScreenProps) {
                     <View style={{ flex: 1 }}>
                       <Text style={[styles.cardTitle, item.isHero && styles.heroCardTitle]}>
                         {item.title}
-                      </Text>
-                      <Text style={[styles.tamilSubtitle, item.isHero && styles.heroTamilSubtitle]}>
-                        {item.tamilSubtitle}
-                      </Text>
-                      <Text style={[styles.tanglishSubtitle, item.isHero && styles.heroTanglishSubtitle]}>
-                        🅰️ {item.tanglishSubtitle}
                       </Text>
                     </View>
                   </View>
@@ -1020,39 +1014,25 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   cardTitle: {
-    fontSize: 16,
+    fontSize: 17,
     fontWeight: '800',
     color: '#0F172A',
+    letterSpacing: -0.2,
   },
   heroCardTitle: {
     color: '#FFFFFF',
-  },
-  tamilSubtitle: {
-    fontSize: 12,
-    fontWeight: '700',
-    color: COLORS.primary,
-    marginTop: 2,
-  },
-  heroTamilSubtitle: {
-    color: '#A5B4FC',
-  },
-  tanglishSubtitle: {
-    fontSize: 11,
-    fontWeight: '700',
-    color: '#059669',
-    marginTop: 1,
-  },
-  heroTanglishSubtitle: {
-    color: '#6EE7B7',
+    fontSize: 18,
   },
   cardDescription: {
-    fontSize: 13,
-    color: '#475569',
-    lineHeight: 18,
-    marginVertical: 4,
+    fontSize: 13.5,
+    color: '#64748B',
+    lineHeight: 20,
+    marginTop: 6,
+    marginBottom: 4,
   },
   heroCardDescription: {
     color: '#CBD5E1',
+    lineHeight: 20,
   },
   cardFooter: {
     marginTop: 10,
